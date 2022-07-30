@@ -1,0 +1,1 @@
+## Simples gerenciador de restaurante
